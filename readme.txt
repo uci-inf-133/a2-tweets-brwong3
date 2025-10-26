@@ -32,7 +32,7 @@ Minqing Hu and Bing Liu. "Mining and Summarizing Customer Reviews."
        Washington, USA, 
 
 Files can be downloaded here:
-;    http://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html
+    http://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html
 
 4. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
 I did not consult any classmates or other individuals.
