@@ -43,7 +43,7 @@ function parseTweets(runkeeper_tweets) {
 	document.getElementById("longestActivityType").innerHTML = 'bike';
 	document.getElementById("shortestActivityType").innerHTML = 'walk';
 
-	document.getElementById("weekdayOrWeekendLonger").innerHTML = 'weekend';
+	document.getElementById("weekdayOrWeekendLonger").innerHTML = 'weekends';
 
 	const button = document.getElementById("aggregate");
 	button.style.display = 'block';
